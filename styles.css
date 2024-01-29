@@ -1,0 +1,33 @@
+body {
+  min-height: 100vh;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: bisque;
+}
+
+h1 {
+  margin-top: 0px;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: brown;
+  width: 100%;
+  text-align: center;
+  color: whitesmoke;
+}
+
+canvas {
+  box-shadow: black 10px 5px 15px;
+}
+
+footer {
+  margin-top: auto;
+  background-color: brown;
+  width: 100%;
+  text-align: center;
+  color: whitesmoke;
+}
